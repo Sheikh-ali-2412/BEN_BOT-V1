@@ -1,4 +1,6 @@
-//nothing
+   //POWERED BY NOTHING 😅
+   //BEN IS MY NUMBER ONE BOT😁
+   //DON'T CHANGE IT FILE
 
 const fs = require('fs')
 const { color } = require('./lib/myfunc')
@@ -57,7 +59,9 @@ global.rpg = {
 //auto functioner
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
-global.autoViewStatus = true;       //make true to view statuses
+global.autoViewStatus = true;    
+global.autoStatusDownload = true;
+//make true to view statuses
 global.unavailable = true;     
 //to show your real presence  
 global.available = false;   
@@ -73,10 +77,15 @@ global.prefix = '.';
 global.welcome = false;
 
 global.autobio = false;
-
+//DONT CHANGE IT API KEY
+global.api = {
+    screenshotapi: 'd539a7b1cd55ebccba702c2a0f96eff9',
+    removebg: '829301093',
+};
 
 //_____________//
 // Don't change it
+
 global.antilink = true;
 global.antibot = false
 //—————「 Deadline 」—————//
