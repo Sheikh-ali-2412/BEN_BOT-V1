@@ -1143119,6 +1143119,7 @@ global.prefix = '.';
 global.api = {
     screenshotapi: 'd539a7b1cd55ebccba702c2a0f96eff9',
     fgmods: 'm2XBbNvz',
+    screenshotapiv2: '054b4800d6664f8fb79e63e419b3c834',
     removebg: '829301093',
 };
 
