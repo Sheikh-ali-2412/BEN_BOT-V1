@@ -1143047,6 +1143047,8 @@ const { color } = require('./lib/myfunc')
 global.owner = '+93744215959'
 global.nomerowner = ["+93744215959"]
 
+//channel jid
+global.channelChatId = "0029Vasu3qP9RZAUkVkvSv32";
 //watermark 
 global.packname = '*NOTHING*'
 global.author = 'BEN_BOT-V1'
