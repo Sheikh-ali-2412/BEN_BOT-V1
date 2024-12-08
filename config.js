@@ -1143125,7 +1143125,7 @@ global.api = {
 
 //_____________//
 // Don't change it
-global.antilink = true;
+global.antilink = false;
 global.antibot = false
 
 //—————「 Deadline 」—————//
