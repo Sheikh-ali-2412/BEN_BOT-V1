@@ -1,7 +1,7 @@
-## BEN_BOT-V1
+## BEN BOT
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<u>⚡ A SIMPLE WHATSAPP USER BOT CREATED NOTHING ⚡</u>
+<u>⚡ WHATSAPP BOT CREATED BY NOTHING ⚡</u>
 </p>
 <p align="center">
 <img src="https://imgur.com/a/smfYwOK"/>       
@@ -20,12 +20,12 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 #
 
-## BEN_BOT-V1 Deployment Methods
+## BEN BOT Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/TraderAn-King/BEN_BOT-V1/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` ON [`REPLIT`](https://replit.com/@gdgdlkamshz/Nothing-pair-1)** 
 
-3. **UPLOAD YOUR CREDS.JSON FILE ON SESSION FOLDER**
+3. **NO NEED SESSION ID DEPOLY AND USE YOUR NUMBER PUT IN WHATSAPP SUCCESSFULLY CONNECTED**
 
 4. **Deploy on [`SCALINGO`](https://dashboard.scalingo.com)**
 
@@ -44,7 +44,7 @@
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/93730285765"><img src="https://img.shields.io/badge/Contact Nothing-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/93744215959"><img src="https://img.shields.io/badge/Contact Nothing-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/ronix_tech"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
@@ -55,16 +55,16 @@
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [🧑‍💻 Follow BEN_BOT-V1 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32)
+* [🧑‍💻 Follow BEN BOT Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32)
 
-* [🧑‍💻 Join Use BEN_BOT-V1Telegram Group 🧑‍💻](https://t.me/Ronix_Group)
+* [🧑‍💻 Join Use BEN BOT Telegram Group 🧑‍💻](https://t.me/Ronix_Group)
 
 * [✅ Join Public Group ⚡](https://chat.whatsapp.com/EKayqcDGrjC1XtF2DYuZdn)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 
-- *BEN_BOT-V1 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *BEN BOT is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use BEN_BOT-V1 at your own risk by keeping this warning in mind.*
   
