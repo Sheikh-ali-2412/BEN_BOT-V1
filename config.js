@@ -1143050,8 +1143050,8 @@ global.nomerowner = ["+93744215959"]
 //channel jid
 global.channelChatId = "0029Vasu3qP9RZAUkVkvSv32";
 //watermark 
-global.packname = '*NOTHING*'
-global.author = 'BEN_BOT-V1'
+global.packname = '*𝑵𝑶𝑻𝑯𝑰𝑵𝑮*'
+global.author = '𝑩𝑬𝑵_𝑩𝑶𝑻'
 
 // cpanel 
 global.domain = 'https://'
@@ -1143115,6 +1143115,11 @@ global.autoreact = false;
 //system auto function
 global.prefix = '.';
 
+//OFFCIAL COMMAND
+global.commands = "1000+";
+
+//BOT OFFCIAL VERSION
+global.version = "V1";
 //DONT CHANGE IT IS API KEY
 global.api = {
     screenshotapi: 'd539a7b1cd55ebccba702c2a0f96eff9',
